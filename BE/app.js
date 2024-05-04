@@ -15,6 +15,7 @@ const cron = require("node-cron");
 let ALLOWED_ORIGINS = [
   "https://coinarena.pro",
   "https://www.coinarena.pro",
+  "https://coinarena.vercel.app",
   "http://localhost:3000",
   "http://localhost:3001",
   "http://localhost:3002",
