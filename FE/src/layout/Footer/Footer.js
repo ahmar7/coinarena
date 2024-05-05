@@ -41,7 +41,7 @@ const Footer = () => {
                         height={57}
                         src={logo_300x57}
                         className="custom-logo"
-                        alt="Coinarena.io – Future DeFi"
+                        alt="Bitblaze.io – Future DeFi"
                         decoding="async"
                       />
                     </Link>
@@ -191,9 +191,9 @@ const Footer = () => {
                         </a>
                       </li>
                       <li className="elementor-icon-list-item">
-                        <a href="mailto:%20admin@coinarena.io">
+                        <a href="mailto:%20admin@bitblaze.io">
                           <span className="elementor-icon-list-text">
-                            admin@coinarena.io
+                            admin@bitblaze.io
                           </span>
                         </a>
                       </li>

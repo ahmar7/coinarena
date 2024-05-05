@@ -266,7 +266,7 @@ const Kyc = () => {
                   <div className="flex items-center">
                     <a
                       href="#"
-                      className="border-muted-200 dark:border-muted-700 flex   items-center justify-center border-r pe-6"
+                      className=" kyx border-muted-200 dark:border-muted-700 flex   items-center justify-center border-r pe-6"
                     >
                       <img src={logo_300x57_1} />
                     </a>

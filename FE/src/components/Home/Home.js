@@ -46,7 +46,7 @@ const Home = () => {
                     >
                       <div className="elementor-widget-container">
                         <a
-                          href="https://Coinarena.io/"
+                          href="https://Bitblaze.io/"
                           className="custom-logo-link"
                           rel="home"
                           aria-current="page"
@@ -56,7 +56,7 @@ const Home = () => {
                             height={57}
                             src={logo_300x57_1}
                             className="custom-logo"
-                            alt="Coinarena.io – Future DeFi"
+                            alt="Bitblaze.io – Future DeFi"
                             decoding="async"
                           />
                         </a>
@@ -200,7 +200,7 @@ const Home = () => {
                       >
                         <div className="elementor-widget-container">
                           <h2 className="elementor-heading-title elementor-size-default">
-                            Introducing Coinarena
+                            Introducing Bitblaze
                           </h2>
                         </div>
                       </div>
@@ -976,10 +976,10 @@ const Home = () => {
                         <div className="elementor-widget-container">
                           <p>
                             In the rapidly evolving landscape of decentralized
-                            finance (DeFi), Coinarena stands as a pioneering
+                            finance (DeFi), Bitblaze stands as a pioneering
                             force, redefining the boundaries of innovation with
                             its cutting-edge AI-driven platform. What sets
-                            Coinarena apart from other DeFi platforms is its
+                            Bitblaze apart from other DeFi platforms is its
                             unparalleled integration of Artificial Intelligence
                             (AI) technologies, elevating the capabilities and
                             possibilities of blockchain-based financial
@@ -1133,7 +1133,7 @@ const Home = () => {
                       >
                         <div className="elementor-widget-container">
                           <h2 className="elementor-heading-title elementor-size-default">
-                            COINARENA Empowers Its Users
+                            BITBLAZE Empowers Its Users
                           </h2>
                         </div>
                       </div>
@@ -1145,11 +1145,10 @@ const Home = () => {
                       >
                         <div className="elementor-widget-container">
                           <p>
-                            Through AI-driven analytics, COINARENA empowers
-                            users with intelligent decision-making tools,
-                            providing comprehensive risk assessment, market
-                            forecasting, and strategic investment
-                            recommendations.
+                            Through AI-driven analytics, BITBLAZE empowers users
+                            with intelligent decision-making tools, providing
+                            comprehensive risk assessment, market forecasting,
+                            and strategic investment recommendations.
                           </p>
                         </div>
                       </div>
@@ -1444,7 +1443,7 @@ const Home = () => {
                               height={57}
                               src={logo_300x57_1}
                               className="custom-logo"
-                              alt="Coinarena.io – Future DeFi"
+                              alt="Bitblaze.io – Future DeFi"
                               decoding="async"
                             />
                           </Link>
@@ -1594,9 +1593,9 @@ const Home = () => {
                               </a>
                             </li>
                             <li className="elementor-icon-list-item">
-                              <a href="mailto:%20admin@coinarena.io">
+                              <a href="mailto:%20admin@bitblaze.io">
                                 <span className="elementor-icon-list-text">
-                                  admin@coinarena.io
+                                  admin@bitblaze.io
                                 </span>
                               </a>
                             </li>
