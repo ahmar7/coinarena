@@ -4,6 +4,6 @@ module.exports = {
   // Local server
   // Official server
 
-  baseUrl: "https://bitblaze.onrender.com/api/v1",
+  baseUrl: "https://coinarena.onrender.com/api/v1",
   // Official server
 };
