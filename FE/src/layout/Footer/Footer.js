@@ -56,8 +56,6 @@ const Footer = () => {
                 >
                   <div className="elementor-widget-container">
                     <p>
-                      Fintech Plus LTD
-                      <br />
                       One Churchill Place Canary Wharf, London, E14
                       <br />
                       CR No. 09630534
@@ -231,7 +229,7 @@ const Footer = () => {
                   data-widget_type="text-editor.default"
                 >
                   <div className="elementor-widget-container">
-                    <p>© 2023 Fintech Plus LTD</p>
+                    <p>© 2023 Bitblaze</p>
                   </div>
                 </div>
               </div>
@@ -284,12 +282,12 @@ const Footer = () => {
                 >
                   <div className="elementor-widget-container">
                     <p>
-                      Fintech Plus Limited acknowledges the reliability of the
+                      Bitblaze Limited acknowledges the reliability of the
                       material presented on this website; however, it does not
                       provide assurances regarding its accuracy, timeliness, or
                       completeness. The content is subject to change without
                       prior notice. Some information on this page is supplied by
-                      third parties through links or other means. Fintech Plus
+                      third parties through links or other means. Bitblaze
                       Limited explicitly disclaims any responsibility or
                       obligation arising from the use, interpretation, or
                       reliance on such information and does not guarantee its
