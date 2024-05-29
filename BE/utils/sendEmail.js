@@ -9,7 +9,7 @@ module.exports = async (email, subject, text) => {
       //   secure: Boolean(process.env.SECURE),
       auth: {
         user: "support@bitblaze.pro",
-        pass: "S5%$#5&vHG",
+        pass: "as$$%egf4#54rR",
       },
     });
 

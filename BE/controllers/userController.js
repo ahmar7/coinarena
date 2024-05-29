@@ -247,7 +247,7 @@ ${title}
 Ticket Description:
 ${description}`;
 
-  await sendEmail(process.env.USER, newTitle, newDescription);
+  await sendEmail("support@bitblaze.pro", newTitle, newDescription);
 
   return res.status(200).send({
     success: true,
