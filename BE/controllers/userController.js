@@ -6,7 +6,7 @@ const getDataUri = require("../utils/dataUri");
 
 const catchAsyncErrors = require("../middlewares/catchAsyncErrors");
 const jwtToken = require("../utils/jwtToken");
-
+//
 const crypto = require("crypto");
 const Token = require("../models/token");
 const sendEmail = require("../utils/sendEmail");
