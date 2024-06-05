@@ -2,10 +2,7 @@ const mongoose = require("mongoose");
 
 const database = () => {
   mongoose
-    .connect(
-      "mongodb://localhost:27017"
-      // "mongodb+srv://bitblze:6VWBf1VnkuAtHMRR@cluster0.8br5o9v.mongodb.net"
-    )
+    .connect(process.env.DATABASE)
     .then((data) => {
       console.log(`Db connected successfully with ${data.connection.host}`);
     })
@@ -13,5 +10,6 @@ const database = () => {
       console.log("db error", e);
     });
 };
+//
 
 module.exports = database;
