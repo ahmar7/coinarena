@@ -1458,9 +1458,9 @@ const Home = () => {
                       >
                         <div className="elementor-widget-container">
                           <p>
-                            One Churchill Place Canary Wharf, London, E14
-                            <br />
                             Bit Digital Limited HK Company number 3188808
+                            <br />
+                            One Churchill Place Canary Wharf, London, E14
                           </p>
                         </div>
                       </div>
