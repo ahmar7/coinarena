@@ -1460,7 +1460,7 @@ const Home = () => {
                           <p>
                             One Churchill Place Canary Wharf, London, E14
                             <br />
-                            CR No. 09630534
+                            Bit Digital Limited HK Company number 3188808
                           </p>
                         </div>
                       </div>
@@ -1591,16 +1591,9 @@ const Home = () => {
                               </a>
                             </li>
                             <li className="elementor-icon-list-item">
-                              <a href="mailto:%20admin@bitblaze.io">
+                              <a href="mailto:support@bitblaze.pro">
                                 <span className="elementor-icon-list-text">
-                                  admin@bitblaze.io
-                                </span>
-                              </a>
-                            </li>
-                            <li className="elementor-icon-list-item">
-                              <a href="http://+442045874404">
-                                <span className="elementor-icon-list-text">
-                                  +442045874404
+                                  support@bitblaze.pro
                                 </span>
                               </a>
                             </li>
@@ -1682,7 +1675,7 @@ const Home = () => {
                       >
                         <div className="elementor-widget-container">
                           <p>
-                            Bitblaze Limited acknowledges the reliability of the
+                            Bitblaze acknowledges the reliability of the
                             material presented on this website; however, it does
                             not provide assurances regarding its accuracy,
                             timeliness, or completeness. The content is subject
