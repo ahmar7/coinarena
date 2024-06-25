@@ -161,31 +161,30 @@
   color: #356df3;
   transition: all 0.3s ease;
 }
-@media (max-width:1024px) {
-  .jss741{
+@media (max-width: 1024px) {
+  .jss741 {
     flex-direction: column;
     align-items: start;
     gap: 35px;
   }
-  .jss742{
+  .jss742 {
     width: 100%;
   }
-  
 }
-@media (max-width:768px) {
-  .jss742{
+@media (max-width: 768px) {
+  .jss742 {
     flex-direction: column;
     align-items: start;
     gap: 20px;
   }
-  .jss741{
-    gap:0
+  .jss741 {
+    gap: 0;
   }
-  .cus-li{
+  .cus-li {
     flex-wrap: wrap;
     gap: 5px;
   }
-  .first-cl{
+  .first-cl {
     padding-left: 0;
   }
 }

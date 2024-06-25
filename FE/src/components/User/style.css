@@ -7,7 +7,9 @@
 .card-header:first-child {
   border-radius: 7px 7px 0 0;
 }
-
+.white-clr {
+  color: white !important;
+}
 .card-header {
   display: -webkit-box;
   display: -ms-flexbox;

@@ -370,7 +370,9 @@ const Account = () => {
                       >
                         Payment Methods
                       </p>
-                      <p>You can add or remove your payment methods here.</p>
+                      <p className="white-clr">
+                        You can add or remove your payment methods here.
+                      </p>
                     </div>
                     <button onClick={() => setModal3(true)} className="add-btn">
                       <svg
@@ -542,7 +544,9 @@ const Account = () => {
                         })
                       ) : (
                         <div className="px-5 py-4">
-                          <h1>No payment methods found</h1>
+                          <h1 className="white-clr">
+                            No payment methods found
+                          </h1>
                         </div>
                       )}
                     </div>
@@ -599,13 +603,17 @@ const Account = () => {
                   </div>
                   <div className="swapas">
                     <h1
-                      className={activeBankOption ? "" : "activeas"}
+                      className={
+                        activeBankOption ? "white-clr" : "activeas white-clr"
+                      }
                       onClick={activeCredit}
                     >
                       Credit Card
                     </h1>
                     <h1
-                      className={activeBankOption ? "activeas" : ""}
+                      className={
+                        activeBankOption ? "activeas white-clr" : "white-clr"
+                      }
                       onClick={activeBank}
                     >
                       Bank Account
